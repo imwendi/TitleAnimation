@@ -1,1 +1,1 @@
-<img src="https://raw.github.com/imwendi/TitleAnimation/master/wendi_animation.gif" alt="Here is a little bit about me!">
+<img src="https://raw.githubusercontent.com/imwendi/TitleAnimation/master/wendi_animation.gif" alt="Here is a little bit about me!">
